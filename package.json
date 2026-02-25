@@ -1,0 +1,8 @@
+{
+  "name": "learnedmine",
+  "version": "1.0.0",
+  "description": "Learnedmine Digital Creative Studio",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0"
+  }
+}
