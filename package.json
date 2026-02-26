@@ -1,0 +1,8 @@
+{
+  "name": "learnedmine",
+  "version": "1.0.0",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.9.0",
+    "cloudinary": "^2.5.1"
+  }
+}
